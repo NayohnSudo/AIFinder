@@ -1,5 +1,6 @@
 import spacy
 import tkinter as tk
+import webbrowser
 from huggingface_hub import HfApi, list_models
 
 HF_API_KEY = "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"
@@ -50,6 +51,15 @@ def recherche_meilleur_modele(tache_recherchee):
         print(f"Une erreur s'est produite : {str(e)}")
         return None
 
+def consulter_modele_sur_firefox(url):
+    # Vérifier si l'URL commence par "https://huggingface.co/"
+    if not url.startswith("https://huggingface.co/"):
+        # Si ce n'est pas le cas, préfixer l'URL
+        url = f"https://huggingface.co/{url}"
+    
+    # Ouvrir l'URL dans le navigateur par défaut du système
+    webbrowser.open_new(url)
+
 def recherche_modele_et_affiche_resultat():
     phrase_utilisateur = entry_phrase.get()
     
@@ -64,6 +74,9 @@ def recherche_modele_et_affiche_resultat():
         meilleur_modele = recherche_meilleur_modele(tache_specifique[0])
         if meilleur_modele:
             result_label.config(text=f"Le meilleur modèle pour la tâche '{tache_specifique[0]}' est : {meilleur_modele.modelId}")
+            # Ajouter un bouton pour consulter le modèle
+            bouton_consulter = tk.Button(fenetre, text="Consulter sur Firefox", command=lambda: consulter_modele_sur_firefox(meilleur_modele.modelId))
+            bouton_consulter.pack(pady=10)
         else:
             result_label.config(text=f"Aucun modèle n'a été trouvé pour la tâche '{tache_specifique[0]}'.")
     elif mots_cles:
@@ -71,6 +84,9 @@ def recherche_modele_et_affiche_resultat():
         meilleur_modele = recherche_meilleur_modele(mots_cles)
         if meilleur_modele:
             result_label.config(text=f"Le meilleur modèle pour la tâche '{' '.join(mots_cles)}' est : {meilleur_modele.modelId}")
+            # Ajouter un bouton pour consulter le modèle
+            bouton_consulter = tk.Button(fenetre, text="Consulter sur Firefox", command=lambda: consulter_modele_sur_firefox(meilleur_modele.modelId))
+            bouton_consulter.pack(pady=10)
         else:
             result_label.config(text=f"Aucun modèle n'a été trouvé pour la tâche '{' '.join(mots_cles)}'.")
     else:
