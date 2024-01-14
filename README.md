@@ -15,5 +15,5 @@ ModelFinder est un outil simple et convivial permettant aux utilisateurs de trou
 1. Clonez le repository sur votre machine locale.
 
 ```bash
-git clone https://github.com/votre-nom-utilisateur/ModelFinder.git
+git clone https://github.com/NayohnSudo/ModelFinder.git
 cd ModelFinder
