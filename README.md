@@ -65,5 +65,5 @@ Nous apprécions toutes les contributions, qu'elles soient grandes ou petites. C
 
 Merci de faire partie de notre communauté et de contribuer à rendre ce projet génial pour tous !
 
-Pour plus de renseignement [Envoyer un e-mail]("")
+
 
