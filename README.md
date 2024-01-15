@@ -49,3 +49,6 @@ En cas de désaccord, favorisez la communication ouverte et constructive. Si des
 Nous apprécions toutes les contributions, qu'elles soient grandes ou petites. Chaque contribution compte, et nous sommes reconnaissants pour le temps que vous consacrez à améliorer ce projet.
 
 Merci de faire partie de notre communauté et de contribuer à rendre ce projet génial pour tous !
+
+Pour plus de renseignement [Envoyer un e-mail]("")
+
