@@ -65,5 +65,8 @@ Nous apprécions toutes les contributions, qu'elles soient grandes ou petites. C
 
 Merci de faire partie de notre communauté et de contribuer à rendre ce projet génial pour tous !
 
+## Contact 💬 : [Envoyer un e-mail](mailto:community.modelfinder@gmail.com)
+
+
 
 
