@@ -3,7 +3,7 @@ import tkinter as tk
 import webbrowser
 from huggingface_hub import HfApi, list_models
 
-HF_API_KEY = "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"
+HF_API_KEY = ""
 
 # Charger le modèle de langue français de spaCy
 nlp = spacy.load("fr_core_news_sm")
