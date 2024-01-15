@@ -19,6 +19,21 @@ git clone https://github.com/NayohnSudo/ModelFinder.git
 cd ModelFinder
 ```
 
+## Configuration de l'API Hugging Face
+
+Pour utiliser les fonctionnalités liées à l'API Hugging Face, vous devez fournir votre propre clé API personnelle. Voici les étapes générales pour configurer votre clé API :
+
+1. **Créer un compte Hugging Face :** Si vous n'avez pas de compte, rendez-vous sur [Hugging Face](https://huggingface.co/) et créez un compte.
+
+2. **Accéder à votre profil utilisateur :** Une fois connecté, accédez à votre profil utilisateur.
+
+3. **Générer une clé API :** Recherchez la section dédiée à la gestion des clés API dans votre profil et générez une nouvelle clé API personnelle.
+
+4. **Ajouter la clé API à votre environnement :** Ajoutez la clé API générée à votre environnement de développement local ou à vos variables d'environnement sur votre serveur d'hébergement.
+
+N'oubliez pas de garder votre clé API confidentielle et de ne jamais la partager publiquement.
+
+
 
 # Guide de Bienveillance
 
