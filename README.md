@@ -30,7 +30,7 @@ Veuillez lire et respecter notre [Code de Conduite](https://github.com/NayohnSud
 
 ## Guide de Contribution
 
-Avant de contribuer, assurez-vous de consulter notre [Guide de Contribution](lien_vers_le_guide_de_contribution) pour comprendre le processus de soumission des contributions, les normes de codage, et d'autres informations importantes liées aux contributions.
+Avant de contribuer, assurez-vous de consulter notre [Guide de Contribution](https://github.com/NayohnSudo/ModelFinder/blob/main/Guide%20des%20contributions.md) pour comprendre le processus de soumission des contributions, les normes de codage, et d'autres informations importantes liées aux contributions.
 
 ## Comment Fournir un Retour
 
