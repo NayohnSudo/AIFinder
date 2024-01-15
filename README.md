@@ -26,7 +26,7 @@ Bienvenue dans notre communauté open source ! Nous sommes ravis de vous avoir p
 
 ## Code de Conduite
 
-Veuillez lire et respecter notre [Code de Conduite](lien_vers_le_code_de_conduite). Ce code énonce les attentes pour un comportement acceptable au sein de la communauté, et il s'applique à tous les espaces liés à ce projet, y compris les contributions, les problèmes, les commentaires et les discussions.
+Veuillez lire et respecter notre [Code de Conduite](https://github.com/NayohnSudo/ModelFinder/blob/main/Code%20de%20Conduite.md). Ce code énonce les attentes pour un comportement acceptable au sein de la communauté, et il s'applique à tous les espaces liés à ce projet, y compris les contributions, les problèmes, les commentaires et les discussions.
 
 ## Guide de Contribution
 
