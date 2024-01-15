@@ -17,3 +17,35 @@ ModelFinder est un outil simple et convivial permettant aux utilisateurs de trou
 ```bash
 git clone https://github.com/NayohnSudo/ModelFinder.git
 cd ModelFinder
+```
+
+
+# Guide de Bienveillance
+
+Bienvenue dans notre communauté open source ! Nous sommes ravis de vous avoir parmi nous. Nous valorisons la diversité et l'inclusion, et nous nous efforçons de créer un environnement accueillant et respectueux pour tous les contributeurs, quel que soit leur niveau d'expérience.
+
+## Code de Conduite
+
+Veuillez lire et respecter notre [Code de Conduite](lien_vers_le_code_de_conduite). Ce code énonce les attentes pour un comportement acceptable au sein de la communauté, et il s'applique à tous les espaces liés à ce projet, y compris les contributions, les problèmes, les commentaires et les discussions.
+
+## Guide de Contribution
+
+Avant de contribuer, assurez-vous de consulter notre [Guide de Contribution](lien_vers_le_guide_de_contribution) pour comprendre le processus de soumission des contributions, les normes de codage, et d'autres informations importantes liées aux contributions.
+
+## Comment Fournir un Retour
+
+Votre avis est précieux, et nous encourageons les commentaires constructifs. Lorsque vous fournissez un retour, veuillez être respectueux envers les idées des autres et exprimer vos points de vue de manière claire et concise.
+
+## Poser des Questions
+
+Si vous avez des questions sur le projet, son fonctionnement, ou toute autre chose, n'hésitez pas à les poser. Nous sommes là pour vous aider et pour créer une communauté collaborative.
+
+## Résolution des Conflits
+
+En cas de désaccord, favorisez la communication ouverte et constructive. Si des tensions surviennent, demandez l'intervention d'un responsable du projet pour faciliter la résolution du conflit.
+
+## Remerciements
+
+Nous apprécions toutes les contributions, qu'elles soient grandes ou petites. Chaque contribution compte, et nous sommes reconnaissants pour le temps que vous consacrez à améliorer ce projet.
+
+Merci de faire partie de notre communauté et de contribuer à rendre ce projet génial pour tous !
