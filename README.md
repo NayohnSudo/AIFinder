@@ -68,5 +68,65 @@ Merci de faire partie de notre communauté et de contribuer à rendre ce projet 
 ## Contact 💬 : [Envoyer un e-mail](mailto:community.modelfinder@gmail.com)
 
 
+## English version 
+
+# AIFinder
+
+AIFinder is a user-friendly tool that allows users to quickly find the most suitable Hugging Face model for their specific task. The application leverages Natural Language Processing (NLP) with spaCy to extract meaningful keywords from the user's query. Using these keywords, it then searches the Hugging Face model database, filtering and ranking results based on relevance. Users can discover the best-fitting model for their needs with just one click.
+
+## Features
+
+- Enter the task you want to accomplish.
+- Click the "Search" button.
+- Discover the best-suited Hugging Face model for your needs.
+- View the found model in your default browser.
+
+## Usage Steps
+
+1. Clone the repository to your local machine.
+
+```bash
+git clone https://github.com/NayohnSudo/AIFinder.git
+cd AIFinder
+
+```
+ugging Face API Configuration
+
+To use features related to the Hugging Face API, you need to provide your own personal API key. Here are the general steps to configure your API key:
+
+    Create a Hugging Face account: If you don't have an account, visit Hugging Face and create an account.
+
+    Access your user profile: Once logged in, go to your user profile.
+
+    Generate an API key: Look for the section dedicated to API key management in your profile and generate a new personal API key.
+
+    Add the API key to your environment: Add the generated API key to your local development environment or to your environment variables on your hosting server.
+
+Remember to keep your API key confidential and never share it publicly.
+Kindness Guide
+
+Welcome to our open-source community! We're thrilled to have you with us. We value diversity and inclusion, and we strive to create a welcoming and respectful environment for all contributors, regardless of their experience level.
+Code of Conduct
+
+Please read and adhere to our Code of Conduct. This code outlines expectations for acceptable behavior within the community, and it applies to all spaces related to this project, including contributions, issues, comments, and discussions.
+Contribution Guide
+
+Before contributing, make sure to check our Contribution Guide to understand the contribution submission process, coding standards, and other important information related to contributions.
+Providing Feedback
+
+Your feedback is valuable, and we encourage constructive comments. When providing feedback, please be respectful of others' ideas and express your views clearly and concisely.
+Asking Questions
+
+If you have questions about the project, how it works, or anything else, feel free to ask. We're here to help and to build a collaborative community.
+Conflict Resolution
+
+In case of disagreement, favor open and constructive communication. If tensions arise, seek the intervention of a project maintainer to facilitate conflict resolution.
+Acknowledgments
+
+We appreciate all contributions, whether big or small. Every contribution matters, and we're grateful for the time you dedicate to improving this project.
+
+Thank you for being part of our community and contributing to making this project great for everyone!
+Contact 💬 : Send an email
+
 
 
